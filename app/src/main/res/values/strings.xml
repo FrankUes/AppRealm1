@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppRealm</string>
+    <string name="guardar">Guardar</string>
 </resources>
